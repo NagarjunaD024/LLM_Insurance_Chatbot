@@ -4,10 +4,10 @@ This implements a chatbot that utilizes Sentence Transformation and OpenAI's GPT
 
 #### Given a knowledge base whose vectors are stored in a pinecone, the chatbot provides answers to the questions that are most relevant to the context.
 
-![Screenshot 2023-08-08 184514](https://github.com/bbabina/Chatbot-with-Langchain-and-Pinecone/assets/74191100/4a7a22dc-ac70-426d-8765-0ef7f5c8f9b7)
+![Screenshot 2024-08-08 184514](https://github.com/bbabina/Chatbot-with-Langchain-and-Pinecone/assets/74191100/4a7a22dc-ac70-426d-8765-0ef7f5c8f9b7)
 
 #### Overview of data used to train the chatbot
-![Screenshot 2023-08-08 184514](https://github.com/arjun8977/insurance/blob/main/Training_Data.png)
+![Screenshot 2024-08-08 184514](https://github.com/arjun8977/insurance/blob/main/Training_Data.png)
 
 
 ### Dependencies
@@ -47,3 +47,7 @@ streamlit run app.py
 ```
 
 This will launch a Streamlit application where you can interact with the chatbot.
+
+#### Overview of Insurance Chatbot.
+![Screenshot 2025-01-14 130035.png](https://github.com/NagarjunaD024/LLM_Insurance_Chatbot/Screenshot 2025-01-14 130035.png)
+
