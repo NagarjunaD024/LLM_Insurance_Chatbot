@@ -18,3 +18,32 @@ The code uses the following Python libraries:
 - `pinecone`: Used to create and query an index of similar sentences.
 - `openai`: Used to interact with the OpenAI GPT-3 model.
 - `streamlit`: Used to create a user-friendly web application for interacting with the chatbot.
+
+## Getting Started
+
+### Installation
+
+To set up the Language Chain Chatbot on your local machine, follow these steps:
+
+1. Create a virtual environment
+
+   ```bash
+   virtualenv venv
+   venv\Scripts\activate
+   ```
+
+
+2. Obtain API keys:
+
+   - OpenAI API Key: Get your API key from the OpenAI platform and update it in `app.py` and `Store_Vectors_in_Pinecone.py`.
+   - Pinecone API Key: Get your API key from the Pinecone platform and update it in `Store_Vectors_in_Pinecone.py`.
+
+### Usage
+
+Run the application using the following command:
+
+```bash
+streamlit run app.py
+```
+
+This will launch a Streamlit application where you can interact with the chatbot.
