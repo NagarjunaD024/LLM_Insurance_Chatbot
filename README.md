@@ -49,5 +49,5 @@ streamlit run app.py
 This will launch a Streamlit application where you can interact with the chatbot.
 
 #### Overview of Insurance Chatbot.
-![Screenshot 2025-01-14 130035.png](https://github.com/NagarjunaD024/LLM_Insurance_Chatbot/Screenshot 2025-01-14 130035.png)
+![Screenshot 2025-01-14 130035.png](https://github.com/NagarjunaD024/LLM_Insurance_Chatbot/blob/main/Screenshot%202025-01-14%20130035.png)
 
