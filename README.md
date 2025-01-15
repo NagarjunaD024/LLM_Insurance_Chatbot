@@ -16,7 +16,7 @@ The code uses the following Python libraries:
 
 - `sentence_transformers`: Used to encode input sentences and find similar sentences.
 - `pinecone`: Used to create and query an index of similar sentences.
-- `openai`: Used to interact with the OpenAI GPT-3 model.
+- `openai`: Used to interact with the OpenAI GPT-4o model.
 - `streamlit`: Used to create a user-friendly web application for interacting with the chatbot.
 
 ## Getting Started
