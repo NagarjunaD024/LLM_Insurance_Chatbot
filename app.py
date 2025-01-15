@@ -14,11 +14,12 @@ from langchain.chains import RetrievalQA
 from langchain_pinecone import PineconeVectorStore
 
 
-
-PINECONE_API_KEY = "pcsk_6vTYfB_ECzR1aJyhah78fSvXwMhKeoMobqviU9fAGcyjLE8eHAVGUAJz6pouq8ogKXoNh9"
+# Give your Pinecone Standard Account key
+PINECONE_API_KEY = ""
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 
-OPENAI_API_KEY = "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"
+# Give your  Open AI PI Account key
+OPENAI_API_KEY = ""
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 
